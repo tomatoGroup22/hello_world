@@ -1,0 +1,11 @@
+body{
+    background-color: yellow;
+}
+
+.try{
+    /* flex-direction: column; */
+    display: flex;
+justify-content: center;
+    
+}
+
